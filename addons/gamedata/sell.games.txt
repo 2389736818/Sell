@@ -1,0 +1,14 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Offsets"
+		{
+			"Weapon_Equip"
+			{
+				"windows"	"217"
+				"linux"		"218"
+			}
+		}
+	}
+}
